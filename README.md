@@ -1,4 +1,4 @@
-# webcam-openCV
+# Webcam Python Script
 Python script developed using the Spyder IDE and OpenCV library. This script opens a webcam and allows the user to manipulate the output using 
 the following keys:
     
